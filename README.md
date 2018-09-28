@@ -1,6 +1,6 @@
 # Deep-Survival-Analysis
 
-This is my attempt at compiling and studying survival analysis techniques employing deep learning techniques. 
+This is my attempt at compiling and studying papers in the intersection of survival analysis and deep learning. 
 More generally, I'm interested in learning how to apply survival analysis on large medical datasets.
 
 Here's a spreadsheet of relevant papers I've compiled so far:
